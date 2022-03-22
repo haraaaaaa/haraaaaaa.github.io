@@ -2,8 +2,8 @@
 title: Network Type
 author: Hara Oh
 date: 2022-02-07 10:37:00 +0800
-categories: [Network]
-tags: [network, network type]
+categories: [Network, Network Type]
+tags: [network]
 ---
 # 인트라넷
 - 회사 내부망

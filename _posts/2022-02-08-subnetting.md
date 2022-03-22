@@ -2,8 +2,8 @@
 title: Subnetting
 author: Hara Oh
 date: 2022-02-08 13:32:00 +0800
-categories: [Network]
-tags: [network, subnetting]
+categories: [Network, Protocol]
+tags: [network]
 ---
 # 네트워크를 나누는 것
 
