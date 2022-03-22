@@ -1,5 +1,5 @@
 ---
-title: 서브넷팅
+title: Subnetting
 author: Hara Oh
 date: 2022-02-08 13:32:00 +0800
 categories: [Network]
