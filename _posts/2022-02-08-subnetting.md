@@ -3,7 +3,7 @@ title: 서브넷팅
 author: Hara Oh
 date: 2022-02-08 13:32:00 +0800
 categories: [Network]
-tags: [network, Subneting]
+tags: [network, subnetting]
 ---
 # 네트워크를 나누는 것
 

@@ -1,9 +1,9 @@
 ---
-title: 규모에 따른 네트워크 종류
+title: Network Type
 author: Hara Oh
 date: 2022-02-07 10:37:00 +0800
 categories: [Network]
-tags: [network]
+tags: [network, network type]
 ---
 # 인트라넷
 - 회사 내부망
@@ -23,3 +23,5 @@ tags: [network]
 - 큰 도시 또는 캠퍼스에 퍼져 있는 컴퓨터 네트워크
 ## WAN (Wide Area Network)
 - 넓은 지리적 거리/장소를 넘나드는 통신 네트워크 또는 컴퓨터 네트워크
+  
+![Untitled](/assets/img/network01/network.jpg)
