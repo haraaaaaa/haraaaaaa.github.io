@@ -6,7 +6,6 @@ link: https://github.com/haraaaaaa
 date: 2022-02-08 12:02:00 +0800
 categories: [Network]
 tags: [network, IP Address]
-math: true
 mermaid: true
 ---
   
