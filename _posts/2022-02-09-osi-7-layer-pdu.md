@@ -2,7 +2,7 @@
 layout: post
 title: OSI 7 Layer PDU
 author: Hara Oh
-date: 2022-02-08 13:32:00 +0800
+date: 2022-02-09 11:00:00 +0800
 categories: [Network, OSI7Layer]
 tags: [network, pdu, osi7layer]
 ---

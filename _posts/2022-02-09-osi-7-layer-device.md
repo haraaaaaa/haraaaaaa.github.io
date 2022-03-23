@@ -2,7 +2,7 @@
 layout: post
 title: OSI 7 Layer Device
 author: Hara Oh
-date: 2022-02-08 13:32:00 +0800
+date: 2022-02-09 10:00:00 +0800
 categories: [Network, OSI7Layer]
 tags: [network, device, osi7layer]
 ---
