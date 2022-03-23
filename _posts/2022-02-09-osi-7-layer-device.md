@@ -1,4 +1,5 @@
 ---
+layout: post
 title: OSI 7 Layer Device
 author: Hara Oh
 date: 2022-02-08 13:32:00 +0800
