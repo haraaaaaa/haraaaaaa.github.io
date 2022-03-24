@@ -1,25 +1,23 @@
 ---
 layout: post
-title: OSI 7 Layer Device
+title: OSI 7 Layer 장비
 author: Hara Oh
 date: 2022-02-09 10:00:00 +0800
 categories: [Network, OSI7Layer]
 tags: [network, device, osi7layer]
 ---
-# 장비
-
-- L7
+# L7
     - 웹 방화벽
     - 메일 방화벽
     - L7 switch
-- L6
-- L5
-- L4
+# L6
+# L5
+# L4
     - L4 switch
         - L1 ~ L4 인식 가능
         - UDP, TCP의 port number정보를 보고 세션을 구분함 (session table)
         - 로드밸런싱을 위해서 사용
-- L3
+# L3
     - Router
         - IP의 IP주소를 보고 길 찾기 하여 전달
         - Layer 3에서 루핑 looping ->  IP header에 TTL 필드로 라우터를 거치는 수를 제한을 함
@@ -38,7 +36,7 @@ tags: [network, device, osi7layer]
         - L2 스위치 기능과 L3 라우터 기능 모두를 갖춘 장비
         - L1 ~ L3  인식 가능
         - 우리나라는 L3 switch를 많이 사용
-- L2
+# L2
     - switch
         - L1 ~ L2 인식 가능
         - 이더넷의 mac주소를 보고 데이터를 전달
@@ -51,7 +49,7 @@ tags: [network, device, osi7layer]
         - 이더넷 프로토콜 인식 가능
         - Collision Domain 을 나누어 줌
         - Broadcast Domain 내에 있음
-- L1
+# L1
     - Hub
         - Data <-> 신호 변환
         - arp시, 2계층인 mac address를 읽지 못하기 때문에, 전체에 메세지를 뿌린다(Flooding)
@@ -60,7 +58,7 @@ tags: [network, device, osi7layer]
     - 리피터
         - Data <-> 신호 변환
 
-네트워크 장비
+# 네트워크 장비
 
 리피터 : L1  , 데이터와 전기신호 변환
 
