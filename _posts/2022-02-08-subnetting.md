@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Subnetting
+title: 서브넷팅 (Subnetting)
 author: Hara Oh
 date: 2022-02-08 13:32:00 +0800
 categories: [Network, Protocol]
@@ -20,12 +20,12 @@ tags: [network, subnetting]
 ### 192.168.1.0/24
   - host ID 8bit : 2^8 = 256개  (NA,BA 제외하면 254개)
   - host ID 7bit : 2^7 = 128개  (NA,BA 제외하면 126개)
-  - host ID 6bit : 2^6 =   64개  (NA,BA 제외하면   62개)
-  - host ID 5bit : 2^5 =   32개  (NA,BA 제외하면   30개)
-  - host ID 4bit : 2^4 =   16개  (NA,BA 제외하면   14개)
-  - host ID 3bit : 2^3 =     8개  (NA,BA 제외하면     6개)
-  - host ID 2bit : 2^2 =     4개  (NA,BA 제외하면     2개)  -> 물리interface에서 할당
-  - host ID 1bit : 2^1 =     2개  (NA,BA 제외하면     0개) -> 가상interface할당가능
+  - host ID 6bit : 2^6 =  64개  (NA,BA 제외하면  62개)
+  - host ID 5bit : 2^5 =  32개  (NA,BA 제외하면  30개)
+  - host ID 4bit : 2^4 =  16개  (NA,BA 제외하면  14개)
+  - host ID 3bit : 2^3 =   8개  (NA,BA 제외하면   6개)
+  - host ID 2bit : 2^2 =   4개  (NA,BA 제외하면   2개)  -> 물리interface에서 할당
+  - host ID 1bit : 2^1 =   2개  (NA,BA 제외하면   0개) -> 가상interface할당가능
 ### 예시
   - A class는 라우팅 테이블에 Network 목록 1개
   - A class  서브넷팅 256을 하면 라우팅 테이블 목록 256개
