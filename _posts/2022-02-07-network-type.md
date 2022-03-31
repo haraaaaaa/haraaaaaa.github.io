@@ -7,6 +7,7 @@ categories: [Network, 네트워크 종류]
 tags: [network, 네트워크 종류]
 ---
 # 규모에 따른 네트워크
+---
 ## PAN(Personal Area Network)
 비교적 짧은 거리(약 10m 내)인  개인활동공간 내의 저전력 휴대기기 간의 무선 네트워크의 구성을 **PAN** 또는 **WPAN**이라고 합니다.
 ### 표준 

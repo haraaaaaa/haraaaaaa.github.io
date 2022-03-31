@@ -7,7 +7,7 @@ categories: [Network, OSI7Layer]
 tags: [network, pdu, osi7layer]
 ---
 # PDU
-
+---
 L7  
 
 L6		  data + 서비스

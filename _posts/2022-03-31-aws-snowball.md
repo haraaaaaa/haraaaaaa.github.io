@@ -17,6 +17,7 @@ tags: [aws, snowball]
 ![AWS Direct Connect](/assets/img/aws/snowball.png)
 
 # 서비스의 흐름
+---
 1. 위의 사진과 같은 Snowball을 AWS에서 배송 받음
 2. Snowball에 온프레미스에 있던 데이터를 이동함
 3. Snowball을 다시 AWS로 배송

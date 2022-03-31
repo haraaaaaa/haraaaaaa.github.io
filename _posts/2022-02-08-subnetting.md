@@ -7,15 +7,18 @@ categories: [Network, Protocol]
 tags: [network, subnetting]
 ---
 # 서브넷팅이란? 
+---
 네트워크를 나누기 위해서 IP 주소의 구성을 변경 하는 것으로, 서브넷팅의 반대 개념으로는 여러 네트워크를 하나로 합치는 것 (Summary, Summaraztion)이 있다. 
 
 네트워크를 나눌 때, 나누어진 작은 네트워크를 **서브넷 (Subnet)** 이라고 한다
 # 서브넷팅을 하는 경우
+---
 - 필요한 IP가 있을 때 : HostID를 맞추기 (단, 2^n 으로만 가능)
 - 필요한 서브넷 개수가 있을 때
     - IP address 32bit  = 동일한 Network ID + 유니크 Host ID
     - (IP개수 = 해당 네트워크 크기)
 # 서브넷 계산
+---
 ## Host ID 에 따라서 IP개수 계산해보기
 ### 192.168.1.0/24
   - host ID 8bit : 2^8 = 256개  (NA,BA 제외하면 254개)
@@ -47,6 +50,7 @@ Default subnet mask를 사용한다.
 
 
 # VLSM
+---
 - 각 서브넷(Sub-Network) 마다 가변 길이의 subnetmask를 적용하는 기법
     - 각 subnetmask이 각기 다른 크기(호스트 수 또는 주소 배정 수)를 갖을 수 있음
     - Classful Addressing 처럼 고정 길이의 subnetmask를 적용하지 않고, 호스트 수가 적은 네트워크에는 긴 마스크, 그 반대에는 짧은 마스크 적용 등
