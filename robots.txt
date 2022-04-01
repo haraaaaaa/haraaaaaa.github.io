@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
+Disallow:
 
-Sitemap: https://haraaaaaa.github.io/sitemap.xml
+Sitemap: https://wlqmffl0102.github.io/sitemap.xml
