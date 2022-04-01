@@ -27,7 +27,7 @@ Site-to-Site VPN 연결당 0.05 USD(시간당)
 
 ## AWS Direct Connect와의 차이점
 ---
-![Difference of VPN and DC](/assets/img/aws/diff_dc_vpn.png)
+![Difference of VPN and DC](/assets/img/aws/diffdcvpn.png)
 
 ## 결론
 ---
