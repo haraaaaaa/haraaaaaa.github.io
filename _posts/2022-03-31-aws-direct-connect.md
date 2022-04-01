@@ -4,19 +4,21 @@ title: AWS AWS Direct Connect
 author: Hara Oh
 date: 2022-03-31 17:28:00 +0800
 categories: [AWS, 네트워킹 및 콘텐츠 전송]
-tags: [aws, direct_connect]
+tags: [aws, direct connect]
 ---
-# AWS Direct Connect
+## AWS Direct Connect란?
 ---
 ![AWS Direct Connect](/assets/img/aws/dc.png)
+<br>
 이더넷 광섬유 케이블을 통해 온프레미스 네트워크와 AWS 클라우드의 네트워크를 인터넷을 통하지 않고 직접 연결해주는 서비스
 
 - 한쪽은 AWS의 S3 또는 AWS VPC에 연결
 - 다른 한쪽은  온프레미스 환경의 라우터에 연결
 - 구성 방법에 따라 지원되는 속도가 다르며 최소 50Mbps부터 최대 100Gbps까지 지원
-
+<br>
 
 ## 사용 예시
+---
 ### 대규모 데이터를 신속하게 전송 가능
 실시간 분석, 신속한 데이터 백업 또는 방송 미디어의 전송 등을 위한 데이터 전송 가능
 
@@ -25,6 +27,7 @@ tags: [aws, direct_connect]
 
 
 ## 요금
+---
  AWS Direct Connect를 사용하면 사용한 양에 대해서만 결제하며 최소 요금이 없습니다. 요금 구성 요소에 따라서 다르기 때문에 AWS의 가격표를 참고하는게 좋습니다.
 
 ### 용량

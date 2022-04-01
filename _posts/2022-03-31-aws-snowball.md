@@ -6,7 +6,7 @@ date: 2022-03-31 17:28:00 +0800
 categories: [AWS, 마이그레이션 및 전송]
 tags: [aws, snowball]
 ---
-# Snowball이란?
+## Snowball이란?
 ---
 페타바이트*급 대용량 데이터를 전송하기 위한 서비스로 최대 80TB까지 저장 가능하며, Snowball이외에 기능이 추가된 Snowball Edge가 있습니다.
 
@@ -16,7 +16,7 @@ tags: [aws, snowball]
 
 ![AWS Direct Connect](/assets/img/aws/snowball.png)
 
-# 서비스의 흐름
+## 서비스의 흐름
 ---
 1. 위의 사진과 같은 Snowball을 AWS에서 배송 받음
 2. Snowball에 온프레미스에 있던 데이터를 이동함
@@ -26,6 +26,7 @@ tags: [aws, snowball]
 <br>
 
 ## 사용 예시
+---
 - 페타바이트 규모의 데이터를 AWS로 이송하는 경우
 - VPN, Direct Connect, S3를 통한 전송을 이용하기엔 데이터의 양이 많을 경우
 - 물리적으로 격리된 환경이거나 인터넷 환경이 좋지 않을 경우
