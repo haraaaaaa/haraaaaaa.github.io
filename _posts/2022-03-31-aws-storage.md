@@ -34,10 +34,12 @@ tags: [aws, storage]
 ### AWS Snow Family
 모바일 및 오지 배포를 위한 보안과 엔드 투 엔드 물류 기능을 갖춘 엣지 컴퓨팅, 데이터 수집 및 데이터 전송 서비스입니다.
 ## 관리형 파일 전송
+---
 ### AWS Transfer Family
 SFTP, FTPS 및 FTP 프로토콜을 사용하여 Amazon S3 및 Amazon EFS로 간단하고 원활하게 파일을 전송할 수 있습니다.
 
 ## 재해 복구 및 백업
+---
 ### AWS Elastic Disaster Recovery(DRS)
 저렴한 스토리지, 최소한의 컴퓨팅 및 특정 시점으로 복구를 통해 온프레미스 및 클라우드 기반 애플리케이션을 빠르고 안정적으로 복구하여 가동 중지 시간과 데이터 손실을 최소화할 수 있습니다.
 
