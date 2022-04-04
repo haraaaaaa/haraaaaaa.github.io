@@ -16,7 +16,7 @@ tags: [network, subnetting]
 - 필요한 IP가 있을 때 : HostID를 맞추기 (단, 2^n 으로만 가능)
 - 필요한 서브넷 개수가 있을 때
     - IP address 32bit  = 동일한 Network ID + 유니크 Host ID
-    - (IP개수 = 해당 네트워크 크기)
+    - IP개수 = 해당 네트워크 크기
 <br>
 
 ## 서브넷 계산
